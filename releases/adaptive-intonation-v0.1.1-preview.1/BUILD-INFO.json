@@ -1,0 +1,49 @@
+{
+  "product": "Adaptive Intonation",
+  "instrument_version": "0.1.1",
+  "download_edition": "Preview 1",
+  "tag": "adaptive-intonation-v0.1.1-preview.1",
+  "macos_minimum": "11.0",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "formats": [
+    "AUv2",
+    "Standalone"
+  ],
+  "signing": "ad-hoc; not Developer ID signed or notarized",
+  "dependency": {
+    "JUCE": "8.0.15"
+  },
+  "bundles": [
+    {
+      "bundle": "Adaptive Intonation.component",
+      "version": "0.1.1",
+      "bundle_id": "com.jesse.synthsuite.adaptiveintonation",
+      "executable_sha256": "664a19937e7ab940ec6f30a3ca4112008f82ee1ba977fa269033bc213ad24439",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ]
+    },
+    {
+      "bundle": "Adaptive Intonation.app",
+      "version": "0.1.1",
+      "bundle_id": "com.jesse.synthsuite.adaptiveintonation",
+      "executable_sha256": "21431bba1d1add5af61eb10e8cb1a069b2b37f14526c1aea4f9eae7d97460451",
+      "architectures": [
+        "x86_64",
+        "arm64"
+      ]
+    }
+  ],
+  "validation": [
+    "Universal Release builds; version metadata and executable permissions checked",
+    "Adaptive tests pass natively and in translated x86_64 execution",
+    "Strict/deep bundle signature verification",
+    "Explicit packaged AU factory: 16 parameters, all-parameter state recall, offline MIDI on/off and finite non-silent rendering at 44.1/48 kHz on arm64 and translated x86_64",
+    "Compact versioned editor inspected offscreen; no host/device opened"
+  ],
+  "limits": "Real Logic/GarageBand, zoom, MIDI/automation/save-reopen and musical acceptance remain pending. Build requirements are not proof of compatibility on every OS. Source/history maintained separately."
+}

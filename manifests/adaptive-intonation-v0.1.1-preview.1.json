@@ -1,0 +1,19 @@
+{
+  "product": "Adaptive Intonation",
+  "version": "0.1.1",
+  "bundle_version": "0.1.1",
+  "download_edition": "Preview 1",
+  "macos": "11.0",
+  "prerelease": true,
+  "auv3": false,
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Adaptive-Intonation-0.1.1-preview.1-macOS.zip",
+  "sha256": "5c2640e170f47ef5b6d4565aca2e59fb5f3866cd3d97c05f68b536c96f88cb5e",
+  "notices_sha256": "990278bd2a2e13f5e9a6613454783973fd02b3f231909dd764e188da60c91adf",
+  "build_info_sha256": "00c9762e2f5672162eb728e1d5643fd3b71eb842160d7712cc61e3a82fc73192",
+  "validation_limits": "Real Logic/GarageBand and musical acceptance remain pending; see release notes and START-HERE.md."
+}
