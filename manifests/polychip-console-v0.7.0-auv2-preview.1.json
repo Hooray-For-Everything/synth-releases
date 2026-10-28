@@ -1,0 +1,31 @@
+{
+  "product": "Polychip Console",
+  "version": "0.7.0",
+  "bundle_version": "0.7.0",
+  "distribution_version": "0.7.0-auv2-preview.1",
+  "download_edition": "AUv2 preview 1 \u2014 documentation refresh",
+  "macos": "12.0",
+  "prerelease": true,
+  "auv3": false,
+  "standalone": false,
+  "formats": [
+    "AUv2"
+  ],
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Polychip-Console-0.7.0-AUv2-preview.1-macOS.zip",
+  "sha256": "670b4b01996853d39f249b28307103fa7c9ac730e442f9a2b48124e6eceb52a5",
+  "notices_sha256": "79aa61b9ae9f55de577c22d20a201cd558d5101e7dc970e6b93a7688baf1b8f6",
+  "build_info_sha256": "ccee0eebae586ded09c098328ae8d3f09b21d0eff62b519a12b9592db4f04965",
+  "binary_rebuilt": false,
+  "features": [
+    "Six sources: NES pulse/triangle/noise, Game Boy wave/pulse, OPN2-style FM",
+    "Per-source stereo placement and shared echo",
+    "Shared LFO/gate modulation and resonant tone filter",
+    "100 parameters, state migration, Wave RAM and Panic"
+  ],
+  "validation_limits": "GarageBand recognition remains unresolved despite normal/out-of-process AUv2 validation passes. Full GarageBand/Logic, live performance/listening acceptance pending. Standalone and AUv3 omitted."
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "product": "Polychip Console",
+  "instrument_version": "0.7.0",
+  "bundle_version": "0.7.0",
+  "distribution_version": "0.7.0-auv2-preview.1",
+  "download_edition": "AUv2 preview 1 \u2014 documentation refresh",
+  "binary_rebuilt": false,
+  "package_change": "AUv2-only selection and corrected reader documentation; component files unchanged",
+  "formats": [
+    "AUv2"
+  ],
+  "omitted_formats": [
+    "Standalone",
+    "AUv3"
+  ],
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "minimum_macos": "12.0",
+  "bundle_id": "com.jesse.synthsuite.polychipconsole",
+  "au_identity": {
+    "type": "aumu",
+    "subtype": "Plyc",
+    "manufacturer": "Jess",
+    "version": 1792
+  },
+  "signing": "ad-hoc; not Developer ID signed or notarized",
+  "component_files": [
+    {
+      "path": "Polychip Console.component/Contents/_CodeSignature/CodeResources",
+      "sha256": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+      "mode": "0o644"
+    },
+    {
+      "path": "Polychip Console.component/Contents/MacOS/Polychip Console",
+      "sha256": "b1b9a5e4974f08ce5f8c390c3ef356ed535a175c7d4f3c4439363fa1384f1817",
+      "mode": "0o755"
+    },
+    {
+      "path": "Polychip Console.component/Contents/Info.plist",
+      "sha256": "843f5c28d321f9868186d32b4c124f52f89bafb0149ec032ed5ba445bb794641",
+      "mode": "0o644"
+    },
+    {
+      "path": "Polychip Console.component/Contents/PkgInfo",
+      "sha256": "d06a80ba92de0833d0ed03de1b02b7c8913f126d9e8c8931b190765dd5d83b11",
+      "mode": "0o644"
+    }
+  ],
+  "validation_limits": "GarageBand recognition unresolved; full host/listening acceptance pending. Same AUv2 binary passes recorded normal/out-of-process validation."
+}

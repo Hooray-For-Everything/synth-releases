@@ -1,6 +1,6 @@
 # Hooray For Everything — synth downloads
 
-Experimental Mac instruments for making music. Each is available as a standalone app and an Audio Unit instrument for a music host. Pick the sounds you want.
+Experimental Mac instruments for making music. Most downloads include a standalone app and an Audio Unit instrument for a music host; the Polychip edition below is AUv2-only. Pick the sounds you want.
 
 ## Downloads
 
@@ -13,6 +13,9 @@ These are early releases and playable previews, shared for trying and feedback. 
 | **Drum Synth** | A synthesized electronic drum kit with playable pads and groove controls. | **0.1.0** | Preview 1 · [ZIP](https://github.com/Hooray-For-Everything/synth-releases/releases/download/drum-synth-v0.1.0-preview.1/Drum-Synth-0.1.0-preview.1-macOS.zip) · [notes and notices](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/drum-synth-v0.1.0-preview.1) | macOS 11.0+; Apple Silicon or Intel |
 | **Harmonic Ecosystem** | Shimmering additive tones with interacting harmonics. | **0.1.3** | Preview 1 · [ZIP](https://github.com/Hooray-For-Everything/synth-releases/releases/download/harmonic-ecosystem-v0.1.3-preview.1/Harmonic-Ecosystem-0.1.3-preview.1-macOS.zip) · [notes and notices](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/harmonic-ecosystem-v0.1.3-preview.1) | macOS 12.0+; Apple Silicon or Intel |
 | **Distant Metal** | Struck, scraped and bending metal, from close-up to far away. | **0.1.0** | Preview 1 · [ZIP](https://github.com/Hooray-For-Everything/synth-releases/releases/download/distant-metal-v0.1.0-preview.1/Distant-Metal-0.1.0-preview.1-macOS.zip) · [notes and notices](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/distant-metal-v0.1.0-preview.1) | macOS 11.0+; Apple Silicon or Intel |
+| **Polychip Console** | NES, Game Boy and FM-style chip sounds with shared echo, modulation and tone. | **0.7.0** | AUv2 preview 1 · [ZIP](https://github.com/Hooray-For-Everything/synth-releases/releases/download/polychip-console-v0.7.0-auv2-preview.1/Polychip-Console-0.7.0-AUv2-preview.1-macOS.zip) · [notes and notices](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/polychip-console-v0.7.0-auv2-preview.1) | macOS 12.0+; Apple Silicon or Intel |
+
+**Polychip preview caveat:** GarageBand recognition remains unresolved despite passing normal and out-of-process AUv2 validation. This **AUv2-only** download refreshes packaging/documentation for unchanged instrument version **0.7.0**; it contains no standalone app or AUv3. Full host/listening acceptance remains pending. Read its [versioned guide](releases/polychip-console-v0.7.0-auv2-preview.1/START-HERE.md) and [complete notices](releases/polychip-console-v0.7.0-auv2-preview.1/THIRD-PARTY-NOTICES.txt) before trying it.
 
 **Version labels:** “Instrument version” is the numeric version reported by the app/plug-in. “Preview 1” is the download's prerelease edition. For example, a ZIP named `Tape-Polysynth-0.1.0-preview.1-macOS.zip` contains instrument version **0.1.0**. Existing filenames, tags and hashes are retained; the preview suffix is not part of the numeric version stored in these app/plug-in bundles.
 
