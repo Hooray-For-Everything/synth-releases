@@ -1,0 +1,26 @@
+AU Vault 0.1.0 Preview 1 — software and dependency notices
+
+Copyright 2026 Jesse Kirdahy. Binary preview for evaluation and local Audio Unit
+inventory/archive/profile workflows. Source code and private development history
+are not included. This download grants no rights to separately downloaded
+instruments; retain and follow each instrument's own notices and terms.
+
+AU Vault's application and bounded-extraction bridge are original Swift/C code.
+No JUCE implementation, instrument binary, third-party SDK, external package,
+downloaded decoder, test fixture, user archive or profile is bundled.
+
+Platform components are supplied by macOS: Swift/SwiftUI, Foundation, AppKit,
+CryptoKit and the system libarchive dynamic library. Their existing platform and
+open-source terms remain applicable. This package does not redistribute those
+system library implementations or alter their licenses.
+
+The C bridge uses minimal stable libarchive public API declarations; it does not
+vendor libarchive's decoder implementation. Public API documentation credits
+Tim Kientzle and contributors. Upstream references and license notices:
+https://github.com/libarchive/libarchive/blob/v3.7.7/libarchive/archive.h
+https://github.com/libarchive/libarchive/blob/v3.7.7/libarchive/archive_entry.h
+https://opensource.apple.com/
+
+This preview is ad-hoc signed, not Developer ID signed or notarized. No signing
+identity, credential, entitlement expansion, security bypass or installed plugin
+change is required or included. Runtime/host/audio acceptance is not promised.

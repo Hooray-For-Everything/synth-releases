@@ -1,0 +1,33 @@
+{
+  "artifact_kind": "manager",
+  "product": "AU Vault",
+  "version": "0.1.0-preview.1",
+  "bundle_version": "0.1.0",
+  "bundle_build": "1",
+  "macos": "14.0",
+  "architectures": [
+    "arm64"
+  ],
+  "prerelease": true,
+  "filename": "AUVault-0.1.0-preview.1-macOS-arm64.zip",
+  "sha256": "6d682a3daaef1edd3a4783b614059bcbe776b8a80d215c062180fc6433a0d8c2",
+  "notices_sha256": "1aa5175e3463d6a2ec69448bd0f4aca6a01256984ef296d5078dac54f61b2c28",
+  "signing": "ad-hoc; not Developer ID signed or notarized",
+  "features": {
+    "inventory": true,
+    "immutable_archive": true,
+    "grouped_builds": true,
+    "manual_profiles": true,
+    "dry_run": true,
+    "public_catalog": true,
+    "verified_public_import": true,
+    "live_activation": false,
+    "live_restoration": false
+  },
+  "validation": {
+    "automated_tests": 48,
+    "actual_public_zip_imports": 7,
+    "visual_qa": "catalog, grouped profile save/reopen, dry-run and isolated import inspected; full acceptance pending",
+    "real_host_musical_recall": "pending"
+  }
+}

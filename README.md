@@ -27,6 +27,16 @@ Read [installation guidance](INSTALL.md) before replacing a plug-in. Keep a back
 
 Adaptive Intonation **0.1.1 Preview 1** adds a compact editor, finer Shape dragging and complete target-tuning readouts. Its numeric instrument/bundle version is **0.1.1**; the preview suffix identifies the download edition. [Versioned guide](releases/adaptive-intonation-v0.1.1-preview.1/START-HERE.md) and [complete notices](releases/adaptive-intonation-v0.1.1-preview.1/THIRD-PARTY-NOTICES.txt) accompany this build. The [historical 0.1.0 release](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/adaptive-intonation-v0.1.0) remains unchanged.
 
+## AU Vault — keep the builds your songs need
+
+[**Download AU Vault 0.1.0 · Preview 1**](https://github.com/Hooray-For-Everything/synth-releases/releases/tag/au-vault-v0.1.0-preview.1) · [Quick guide](releases/au-vault-v0.1.0-preview.1/START-HERE.md) · [Picture tour](releases/au-vault-v0.1.0-preview.1/SCREENSHOT-TOUR.md)
+
+Browse current and older hosted instrument releases, check a download before adding it to your local library, and save the exact instrument builds chosen for each song in a manual profile. Expand an instrument to see its archived builds; a dry run previews what a song would need.
+
+**This preview does not install updates or switch installed instruments.** Downloading, importing and pinning leave your music apps' installed plugins unchanged. Real GarageBand/Logic musical recall is pending; live activation and restoration are disabled in the public Release build.
+
+Requires **Apple Silicon and macOS 14+**. No account, installer or background agent. Ad-hoc signed, **not Developer ID signed or notarized**; macOS may block opening it. Keep the included notices and guide. AU Vault is an application, not an Audio Unit instrument; the instrument-specific installation instructions above do not apply to this app.
+
 ## Feedback and licensing
 
 Use [public issues](https://github.com/Hooray-For-Everything/synth-releases/issues) for feedback, following [support guidance](SUPPORT.md). Share only information you intend to make public. Read the [licensing/notices policy](LICENSE-POLICY.md) and [full third-party notices](THIRD-PARTY-NOTICES.txt).

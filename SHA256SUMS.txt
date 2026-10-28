@@ -5,3 +5,4 @@ e17c5590e2aab1382fa4f44b92a61223fe3191ed0bc77fe68a5540b1173629d6  Drum-Synth-0.1
 2d900e19eb6d5446b45d2ffe52d02f22c5ed772cfa39ce78a09c64397ac47dec  Distant-Metal-0.1.0-preview.1-macOS.zip
 5c2640e170f47ef5b6d4565aca2e59fb5f3866cd3d97c05f68b536c96f88cb5e  Adaptive-Intonation-0.1.1-preview.1-macOS.zip
 670b4b01996853d39f249b28307103fa7c9ac730e442f9a2b48124e6eceb52a5  Polychip-Console-0.7.0-AUv2-preview.1-macOS.zip
+6d682a3daaef1edd3a4783b614059bcbe776b8a80d215c062180fc6433a0d8c2  AUVault-0.1.0-preview.1-macOS-arm64.zip
