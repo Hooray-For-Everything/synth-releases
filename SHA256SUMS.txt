@@ -1,0 +1,5 @@
+c7d33c296cbc072ed8ad0a16fcbd6a04175c76f492f2b204b2c4b82d714418b4  Adaptive-Intonation-0.1.0-macOS.zip
+9d098c283be85175cf5d9976fe9ec804ac0557599a9c62da0e431a2d40fd9399  Tape-Polysynth-0.1.0-preview.1-macOS.zip
+e17c5590e2aab1382fa4f44b92a61223fe3191ed0bc77fe68a5540b1173629d6  Drum-Synth-0.1.0-preview.1-macOS.zip
+1fa4abc920721c9dff965fb669e903f2a95b911e7f53c7f495940942b7098cb6  Harmonic-Ecosystem-0.1.3-preview.1-macOS.zip
+2d900e19eb6d5446b45d2ffe52d02f22c5ed772cfa39ce78a09c64397ac47dec  Distant-Metal-0.1.0-preview.1-macOS.zip

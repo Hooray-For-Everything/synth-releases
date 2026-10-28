@@ -1,0 +1,16 @@
+{
+  "product": "Distant Metal",
+  "version": "0.1.0-preview.1",
+  "bundle_version": "0.1.0",
+  "macos": "11.0",
+  "prerelease": true,
+  "auv3": false,
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Distant-Metal-0.1.0-preview.1-macOS.zip",
+  "sha256": "2d900e19eb6d5446b45d2ffe52d02f22c5ed772cfa39ce78a09c64397ac47dec",
+  "notices_sha256": "dc404fe735adc943cd1a5804b23ac926eb6f1d044bde03c02f4292eb9567d6ea"
+}

@@ -1,0 +1,16 @@
+{
+  "product": "Adaptive Intonation",
+  "version": "0.1.0",
+  "bundle_version": "0.1.0",
+  "macos": "11.0",
+  "prerelease": false,
+  "auv3": false,
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Adaptive-Intonation-0.1.0-macOS.zip",
+  "sha256": "c7d33c296cbc072ed8ad0a16fcbd6a04175c76f492f2b204b2c4b82d714418b4",
+  "notices_sha256": "dc404fe735adc943cd1a5804b23ac926eb6f1d044bde03c02f4292eb9567d6ea"
+}

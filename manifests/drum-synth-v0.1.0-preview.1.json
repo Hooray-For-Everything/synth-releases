@@ -1,0 +1,16 @@
+{
+  "product": "Drum Synth",
+  "version": "0.1.0-preview.1",
+  "bundle_version": "0.1.0",
+  "macos": "11.0",
+  "prerelease": true,
+  "auv3": false,
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Drum-Synth-0.1.0-preview.1-macOS.zip",
+  "sha256": "e17c5590e2aab1382fa4f44b92a61223fe3191ed0bc77fe68a5540b1173629d6",
+  "notices_sha256": "dc404fe735adc943cd1a5804b23ac926eb6f1d044bde03c02f4292eb9567d6ea"
+}

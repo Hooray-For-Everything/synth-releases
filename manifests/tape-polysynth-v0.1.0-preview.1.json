@@ -1,0 +1,16 @@
+{
+  "product": "Tape Polysynth",
+  "version": "0.1.0-preview.1",
+  "bundle_version": "0.1.0",
+  "macos": "11.0",
+  "prerelease": true,
+  "auv3": false,
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "signing": "ad-hoc; not notarized",
+  "filename": "Tape-Polysynth-0.1.0-preview.1-macOS.zip",
+  "sha256": "9d098c283be85175cf5d9976fe9ec804ac0557599a9c62da0e431a2d40fd9399",
+  "notices_sha256": "dc404fe735adc943cd1a5804b23ac926eb6f1d044bde03c02f4292eb9567d6ea"
+}
